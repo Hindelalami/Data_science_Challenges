@@ -3,4 +3,8 @@ these repository contain multiple machine learning projects about multiple topic
 
 
 <ul>
-  <li>fjkej</li>
+  <li>Classification of fetal ultrasound  </li>
+  <li>Hand gesture recognition  </li>
+  <li>atomobile Plate classification </li>
+  <li> </li>
+ 
