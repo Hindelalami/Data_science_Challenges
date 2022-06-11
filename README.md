@@ -6,5 +6,6 @@ these repository contain multiple machine learning projects about multiple topic
   <li>Classification of fetal ultrasound  </li>
   <li>Hand gesture recognition  </li>
   <li>atomobile Plate classification </li>
-  <li> </li>
+  <li>Morrocan darija word classification </li>
+  
  
